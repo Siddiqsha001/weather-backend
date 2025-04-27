@@ -1,9 +1,20 @@
-Flask==3.0.0
+# Flask==3.0.0
+# flask-cors==4.0.0
+# google-generativeai==0.3.0
+# python-dotenv==1.0.0
+# langchain-google-genai==0.0.5
+# langchain==0.1.0
+# requests==2.31.0
+# supabase
+# asyncio
+
+Flask==2.3.2
 flask-cors==4.0.0
 google-generativeai==0.3.0
 python-dotenv==1.0.0
 langchain-google-genai==0.0.5
-langchain==0.1.0
+langchain==0.0.334
 requests==2.31.0
-supabase-py
-asyncio
+supabase
+gunicorn
+
